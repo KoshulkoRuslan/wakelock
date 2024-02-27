@@ -15,7 +15,6 @@ Essentially, this allows you to keep the device awake, i.e. prevent the device f
 | iOS      |         ✅         |
 | Web      |         ✅         |
 | macOS    |         ✅         |
-| Windows  |         ✅         |
 | Linux    |      planned       |
 
 ## Usage
